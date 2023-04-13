@@ -1,0 +1,31 @@
+{
+  "features-special": "Merkmale",
+
+  "features-info-card": [
+    {
+      "info-card-title": "Asteroiden",
+      "info-card-subtitle": "Bekomme die neuesten Informationen über Asteroiden"
+    },
+    {
+      "info-card-title": "APOD",
+      "info-card-subtitle": "Lass dir die schönheit des Universum zeigen"
+    },
+    {
+      "info-card-title": "MRP",
+      "info-card-subtitle": "Bekomme die neuesten Photos von dem Mars Rover"
+    },
+    {
+      "info-card-title": "EITS",
+      "info-card-subtitle": "Schaue dir Koordinatenbasierte Orte von oben an"
+    }
+  ],
+
+  "features-title": "Willkommen in der Merkmal Sektion!",
+  "features-button-Info": "Info",
+  "features-modal": "Auf dieser Seite kannst du dir aussuchen, welche Sektion der Seite du dir anschauen möchtest. Jede Sektion bietet bietet einen kontentreichen Aspekt unseres Universums zum bestaunen an. ",
+  "features-modal-button": "Auf zu Features!",
+
+  "features-banner-title-small": "Du suchst Kontakt?",
+  "features-banner-title-wide": "Du suchst Kontakt? Oder möchtest mehr Erfahren über diese APP?",
+  "features-banner-button": "Sicher!"
+}

@@ -1,0 +1,16 @@
+{
+  "facts-special": "Fakten über diese App",
+  "facts-button-info": "Info",
+  "facts-title": "Fakten",
+  "facts-h2-subtitle": "Interessantes über diese App und mich",
+  "facts-button-Info": "Info",
+  "facts-modal": "Diese Seite zeigt Fakten über diese App und mich an. Zusätzlich bietet sie Raum für kleine Spielereien die ich in dieser Seite verbaut habe.",
+  "facts-modal-button": "Okay",
+  "facts-hero-Name": "D. Goergens",
+  "facts-hero-job": "Front-End Entwickler",
+  "facts-hero-quote": "Hallo mein name ist D. Goergens und ich bin der Erbauer dieser APP. Links von diesem Text seht ihr ein zufälliges Bild. Auf dieses Bild habe ich keinen Einfluss und ab und zu passt es auch nicht ganz. Diese Seite ist eines meiner Projekte, ich hoffe ihr werdet gut unterhalten und findet etwas was euch vielleicht fasziniert oder zum staunen bringt. Ich wollte hier noch einmal der NASA danken, für die BereitStellung dieser fantastischen APIs. Mit der Hilfe der fantastischen Daten welche ich durch diese bekommen habe, konnte ich meiner Kreativität freien lauf lassen und all das hier erschaffen.",
+
+  "facts-banner-title-small": "Genug über mich!",
+  "facts-banner-title-wide": "Genug über mich! Auf zur Action!",
+  "facts-banner-button": "Gerne!"
+}

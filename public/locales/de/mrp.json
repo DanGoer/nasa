@@ -1,0 +1,20 @@
+{
+  "mrp-button-new": "Neu",
+  "mrp-button-info": "Info",
+
+  "mrp-h1": "MRP",
+  "mrp-h2-subtitle": "Mars Rover Photos",
+
+  "mrp-modal": "Diese Seite zeigt 4 Bilder von verschiedenen Kameras des Mars Rovers an. Mit Hilfe des Kalendars lässt sich das Datum des Tages der Aufnahmen auswählen. Aus Gründen der Zeitverschiebung, lassen sich nur Bilder ansehen die älter als zwei Tage sind. Dies ist Zeit Zonen abhängig!",
+  "mrp-modal-button": "Alles klar!",
+
+  "mrp-datepicker-reset": "Klicke hier für ein neues Datum",
+
+  "mrp-banner-title-small": "Du suchst vielleicht etwas näheres?",
+  "mrp-banner-title-wide": "Du suchst etwas näheres? Dann schaue doch welche Asteroiden sich der Erde nähern!",
+  "mrp-banner-button": "Klar!",
+
+  "mrp-camera-h2": "Kamera:",
+
+  "mrp-datepicker-locale": "de"
+}

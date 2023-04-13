@@ -1,0 +1,32 @@
+{
+  "about-info-card": [
+    {
+      "info-card-title": "Impressum",
+      "info-card-subtitle": "Bekomme die Kontakt- und rechtlichen Informationen"
+    },
+    {
+      "info-card-title": "Info zu dieser APP",
+      "info-card-subtitle": "Erfahre alles wissenwerte über diese APP"
+    },
+    {
+      "info-card-title": "404",
+      "info-card-subtitle": "Eine von mir entworfene 404 Page"
+    },
+    {
+      "info-card-title": "Asteroiden",
+      "info-card-subtitle": "Bekomme die neuesten Informationen über Asteroiden"
+    }
+  ],
+
+  "about-title": "Willkommen in der Über Sektion!",
+  "about-h2-subtitle": "Alles über diese APP, Legales und Kontakt",
+  "about-button-Info": "Info",
+  "about-modal": "In diesem Bereich der APP findest du interessante Fakten über diese APP und wie du in Kontakt mit mir treten kannst. ",
+  "about-modal-button": "Weiter zu Über!",
+  "about-title1": "Willkommen in der Merkmal Sektion!",
+  "about-title2": "Willkommen in der Merkmal Sektion!",
+
+  "about-banner-title-small": "Entdecke noch mehr!",
+  "about-banner-title-wide": "DU sucht etwas Unterhaltung? Entdecke mehr!",
+  "about-banner-button": "Klicke hier!"
+}

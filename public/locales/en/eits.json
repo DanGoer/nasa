@@ -1,0 +1,79 @@
+{
+  "precoord-gallery": [
+    {
+      "place-one-title": "Bottrop",
+      "place-one-subtitle": "The city of my birth",
+      "place-one-text": "A city in the Ruhr area, beautiful and always worth a visit."
+    },
+    {
+      "place-one-title": "Oberhausen",
+      "place-one-subtitle": "Home of my family",
+      "place-one-text": "Another city in the Ruhr area, famous for its special charm!"
+    },
+    {
+      "place-one-title": "Bern",
+      "place-one-subtitle": "A favorite holiday destination for me",
+      "place-one-text": "The centrally located capital of Switzerland"
+    },
+    {
+      "place-one-title": "Zürich",
+      "place-one-subtitle": "Another holiday destination of mine",
+      "place-one-text": "A city worth seeing in Switzerland with many great destinations"
+    },
+    {
+      "place-one-title": "London",
+      "place-one-subtitle": "An impressively large metropolis",
+      "place-one-text": "Capital of Great Britain and one of the largest metropolitan areas in Europe "
+    },
+    {
+      "place-one-title": "Paris",
+      "place-one-subtitle": "Another impressively large metropolis",
+      "place-one-text": "Capital of France and one of the largest metropolitan areas in Continental Europe"
+    }
+  ],
+  "eits-button-new": "New",
+  "eits-button-info": "Info",
+  "eits-h1": "EitS",
+  "eits-h2-subtitle": "Eye in the sky",
+  "eits-modal": "This page shows 2 images from a satellite. With the help of the calendar, the date of the day of the recording can be selected. For reasons of data availability, only older images can be viewed.",
+  "eits-modal-button": "Understood!",
+  "eits-datepicker-reset": "Click here for a new date",
+
+  "eits-questions": [
+    {
+      "question-question": "What does the gallery show?",
+      "question-answer": "The gallery displays the landmarks of various cities I have selected. When hovering, the name of the city is revealed. With one click, two images are displayed, which have a preset date."
+    },
+    {
+      "question-question": "Why isn't an image always displayed?",
+      "question-answer": "Sometimes there are no images for certain places at certain times, or clouds obscure the view of the place. Also, not every satellite delivers images of the right quality."
+    },
+    {
+      "question-question": "Where can I get coordinates from?",
+      "question-answer": "If you don't know any coordinates, you have to google the latitude or longitude of a place and then use it. Alternatively, there is the possibility to view a location from the gallery that I have provided."
+    },
+    {
+      "question-question": "Why can't I see anything?",
+      "question-answer": "Sometimes the weather doesn't give a clear view of the target."
+    }
+  ],
+
+  "eits-button-plus": [
+    {
+      "button-title": "Danger! Important!",
+      "button-text": "The fields above must be filled in! Otherwise no data can be delivered!",
+      "button-button": "Roger that!"
+    }
+  ],
+
+  "eits-h2-today": "Today",
+  "eits-h2-past": "Past",
+  "eits-h2-data": "Name/Data:",
+  "eits-h2-date": "Date:",
+
+  "eits-banner-title-small": "Are you looking for something further away?",
+  "eits-banner-title-wide": "Are you looking for something further away? Then see what it looks like on Mars!",
+  "eits-banner-button": "sure!",
+
+  "eits-datepicker-locale": "de"
+}

@@ -1,0 +1,17 @@
+{
+  "factsgrid-cardone-title": "Hallo",
+  "factsgrid-cardone-subtitle": "Schwebe hier drüber!",
+  "factsgrid-cardone-text": "Diese App wurde mit der Hilfe Von React erschaffen",
+
+  "factsgrid-cardtwo-title": "Hey",
+  "factsgrid-cardtwo-subtitle": "Auch hier funktioniert dieser Trick",
+  "factsgrid-cardtwo-text": "Das Styling wurde mit Tailwind gemacht",
+
+  "factsgrid-cardthree-title": "?",
+  "factsgrid-cardthree-subtitle": "Noch mehr Details",
+  "factsgrid-cardthree-text": "Animationen von Framer Motion",
+
+  "factsgrid-cardfour-title": "!",
+  "factsgrid-cardfour-subtitle": "Eine letzte Runde",
+  "factsgrid-cardfour-text": "Die Sprache der Wahl war Typescript für dieses Projekt"
+}

@@ -1,0 +1,24 @@
+{
+  "home-special": "Welcome!",
+
+  "card-1-number": "Number 1",
+  "card-1-title": "NASA space App",
+  "card-1-text": "Welcome to my page! Discover fascinating facts about space.",
+  "card-1-button": "Onward",
+
+  "card-2-number": "Number 2",
+  "card-2-title": "Data provided by NASA",
+  "card-2-text": "All representations, data and facts were kindly provided by NASA itself. A big thank you for that!",
+  "card-2-button": "Onward",
+
+  "card-3-number": "Number 3",
+  "card-3-title": "Great and beautiful discoveries!",
+  "card-3-text": "Please stay a while and enjoy the content provided by the NASA and displayed through my APP. Featured content is linked below.",
+
+  "home-link-h2": "Discovery section",
+  "home-link-h3": "Click for more content!",
+
+  "home-banner-title-small": "Discover even more!",
+  "home-banner-title-wide": "YOU are looking for a larger selection? Discover even more!",
+  "home-banner-button": "Click here!"
+}

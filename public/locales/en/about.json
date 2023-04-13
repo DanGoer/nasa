@@ -1,0 +1,32 @@
+{
+  "about-info-card": [
+    {
+      "info-card-title": "Impressum",
+      "info-card-subtitle": "Get the contact and legal information"
+    },
+    {
+      "info-card-title": "About this APP",
+      "info-card-subtitle": "Find out everything you need to know about this APP"
+    },
+    {
+      "info-card-title": "404",
+      "info-card-subtitle": "One of my 404 Pages"
+    },
+    {
+      "info-card-title": "Asteroiden",
+      "info-card-subtitle": "Bekomme die neuesten Informationen über Asteroiden"
+    }
+  ],
+
+  "about-title": "Welcome to the About section!",
+  "about-h2-subtitle": "All about this APP, legal and contact",
+  "about-button-Info": "Info",
+  "about-modal": "In this section of the APP you will find interesting facts about this APP and how to get in touch with me.",
+  "about-modal-button": "Go to About!",
+  "about-title1": "Willkommen in der Merkmal Sektion!",
+  "about-title2": "Willkommen in der Merkmal Sektion!",
+
+  "about-banner-title-small": "Discover even more!",
+  "about-banner-title-wide": "YOU are looking for some entertaimnent? Discover more!",
+  "about-banner-button": "Click here!"
+}

@@ -1,0 +1,79 @@
+{
+  "precoord-gallery": [
+    {
+      "place-one-title": "Bottrop",
+      "place-one-subtitle": "Die Stadt meiner Geburt",
+      "place-one-text": "Eine Stadt im Ruhrgebiet, wunderschön und immer einen Besuch wert"
+    },
+    {
+      "place-one-title": "Oberhausen",
+      "place-one-subtitle": "Sitz meiner Familie",
+      "place-one-text": "Eine Weitere Stadt im Ruhrgebiet, berühmt für ihren speziellen Charme!"
+    },
+    {
+      "place-one-title": "Bern",
+      "place-one-subtitle": "Ein bei mir beliebtes Urlaubsziel",
+      "place-one-text": "Die Zentral gelegene Hauptstadt der Schweiz"
+    },
+    {
+      "place-one-title": "Zürich",
+      "place-one-subtitle": "Noch ein Urlaubsziel von mir",
+      "place-one-text": "Eine sehenswerte Stadt in der Schweiz mit vielen tollen Ausflugszielen"
+    },
+    {
+      "place-one-title": "London",
+      "place-one-subtitle": "Eine beeindruckend große Metropole",
+      "place-one-text": "Hauptstadt von Großbritanien und eine der größten Metroplen in Europa "
+    },
+    {
+      "place-one-title": "Paris",
+      "place-one-subtitle": "Eine weitere beeindruckend große Metropole",
+      "place-one-text": "Hauptstadt von Frankreich und eine der größten Metropolen in Kontinental Europa"
+    }
+  ],
+  "eits-button-new": "Neu",
+  "eits-button-info": "Info",
+  "eits-h1": "AiH",
+  "eits-h2-subtitle": "Auge im Himmel",
+  "eits-modal": "Diese Seite zeigt 2 Bilder von einem Sateliten. Mit Hilfe des Kalendars lässt sich das Datum des Tages der Aufnahmen auswählen. Aus Gründen der Verfügbarkeit der Daten lassen sich nur ältere Bilder ansehen.",
+  "eits-modal-button": "Alles klar!",
+  "eits-datepicker-reset": "Klicke hier für ein neues Datum",
+
+  "eits-questions": [
+    {
+      "question-question": "Was zeigt die Gallerie an?",
+      "question-answer": "Die Gallerie zeigt die Wahrzeichen verschiedener von mir ausgewählter Städte an. Beim hovern wird der Name der Stadt preisgegeben. Mit einem klick werden zwei Bilder angezeigt, welche ein voreingestelltes Datum haben."
+    },
+    {
+      "question-question": "Warum wird nicht immer ein Bild angezeigt?",
+      "question-answer": "Manchmal gibt es für bestimmte Orte zu bestimmten Zeiten keine Bilder oder Wolken verhängen die Sicht auf den Ort. Auch liefert nicht jeder Satelit Bilder in passender Qualität."
+    },
+    {
+      "question-question": "Woher bekomme ich Koordinaten?",
+      "question-answer": "Wer keine Koordinaten kennt, muss wohl oder übel nach latitude oder longitude eines Orts googlen und diese dann verwenden. Alternativ besteht die Möglichkeit einen von mir bereitgestellten Ort aus der Gallerie anzusehen."
+    },
+    {
+      "question-question": "Warum kann ich nichts sehen?",
+      "question-answer": "Manchmal gibt das Wetter keine klare Sicht auf das Ziel her."
+    }
+  ],
+
+  "eits-button-plus": [
+    {
+      "button-title": "Achtung! Wichtig!",
+      "button-text": "Die oberen Felder müssen ausgefüllt sein! Sonst können keine Daten geliefert werden!",
+      "button-button": "Verstanden!"
+    }
+  ],
+
+  "eits-h2-today": "Heute",
+  "eits-h2-past": "Damals",
+  "eits-h2-data": "Name/Datensatz:",
+  "eits-h2-date": "Datum:",
+
+  "eits-banner-title-small": "Du suchst vielleicht etwas ferneres?",
+  "eits-banner-title-wide": "Du suchst etwas ferneres? Dann schaue doch wie es auf dem Mars aussieht!",
+  "eits-banner-button": "Klar!",
+
+  "eits-datepicker-locale": "de"
+}

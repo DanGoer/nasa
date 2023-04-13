@@ -1,0 +1,31 @@
+{
+  "features-special": "Features",
+
+  "features-info-card": [
+    {
+      "info-card-title": "Asteroids",
+      "info-card-subtitle": "Get the latest information about asteroids"
+    },
+    {
+      "info-card-title": "APOD",
+      "info-card-subtitle": "Let the beauty of the universe show you"
+    },
+    {
+      "info-card-title": "MRP",
+      "info-card-subtitle": "Get the latest photos from the Mars Rover"
+    },
+    {
+      "info-card-title": "EITS",
+      "info-card-subtitle": "View coordinate-based locations from above"
+    }
+  ],
+
+  "features-title": "Welcome to the features Section!",
+  "features-button-Info": "Info",
+  "features-modal": "On this page you can choose which section of the page you want to look at. Each section offers a rich aspect of our universe to marvel at.",
+  "features-modal-button": "On to features!",
+
+  "features-banner-title-small": "Are you looking for contact?",
+  "features-banner-title-wide": "Are you looking for contact? Or would you like to learn more about this APP?",
+  "features-banner-button": "Sure!"
+}
