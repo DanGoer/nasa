@@ -1,15 +1,9 @@
 import Head from "next/head";
+import { ThemeProvider } from "../../context/ThemeContext";
 
-import { Inter } from "@next/font/google";
-import styles from "../styles/Home.module.css";
-import { ThemeProvider } from "../context/ThemeContext";
-import StandardLayout from "../components/layouts/StandardLayout";
-
-const inter = Inter({ subsets: ["latin"] });
-
-export default function Home() {
+function StandardLayout({ children }: any) {
   return (
-    <StandardLayout>
+    <>
       <Head>
         <title>NASA Space app</title>
         <meta
@@ -19,7 +13,10 @@ export default function Home() {
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
-      abc
-    </StandardLayout>
+      <main>
+        <ThemeProvider>{children}</ThemeProvider>
+      </main>
+    </>
   );
 }
+export default StandardLayout;

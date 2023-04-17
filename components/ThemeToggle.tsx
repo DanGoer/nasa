@@ -1,6 +1,6 @@
 // Toggle Button for darkmode
 import { FC } from "react";
-import { useThemeContext } from "./ThemeContext";
+import { useThemeContext } from "../context/ThemeContext";
 
 const ThemeToggle: FC = () => {
   const { theme, setTheme } = useThemeContext();
