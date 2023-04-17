@@ -1,6 +1,6 @@
 // Toggle Button for darkmode
 import { FC } from "react";
-import { useThemeContext } from "../context/ThemeContext";
+import { useThemeContext } from "../../../context/ThemeContext";
 
 const ThemeToggle: FC = () => {
   const { theme, setTheme } = useThemeContext();
@@ -11,7 +11,7 @@ const ThemeToggle: FC = () => {
      bg-primaryLight dark:bg-primaryDark hover:bg-primaryLight/60
      dark:hover:bg-primaryDark/60 border-primaryLightOn dark:border-primaryDarkOn
      hover:border-primaryDarkOn dark:hover:border-primaryLightOn 
-     transition-all duration-300 ease-in-out w-16 h-16"
+     transition-all duration-300 ease-in-out "
       onClick={() => setTheme(theme === "dark" ? "light" : "dark")}
     >
       {theme === "dark" ? (

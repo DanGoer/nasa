@@ -38,13 +38,15 @@ const ThemeProvider: React.FC<Props> = ({ children }) => {
   const initTheme = getInitialTheme();
 
   const rawSetTheme = (rawTheme: string) => {
-    const root = window.document.documentElement;
-    const isDark = rawTheme === "dark";
+    if (typeof window !== "undefined") {
+      const root = window.document.documentElement;
+      const isDark = rawTheme === "dark";
 
-    root.classList.remove(isDark ? "light" : "dark");
-    root.classList.add(rawTheme);
+      root.classList.remove(isDark ? "light" : "dark");
+      root.classList.add(rawTheme);
 
-    localStorage.setItem("color-theme", rawTheme);
+      localStorage.setItem("color-theme", rawTheme);
+    }
   };
 
   if (initTheme) {

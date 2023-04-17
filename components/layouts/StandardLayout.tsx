@@ -1,5 +1,6 @@
 import Head from "next/head";
 import { ThemeProvider } from "../../context/ThemeContext";
+import Navbar from "../navbar/NavBar";
 
 function StandardLayout({ children }: any) {
   return (
@@ -13,8 +14,12 @@ function StandardLayout({ children }: any) {
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
+
       <main>
-        <ThemeProvider>{children}</ThemeProvider>
+        <ThemeProvider>
+          <Navbar />
+          {children}
+        </ThemeProvider>
       </main>
     </>
   );
